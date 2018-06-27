@@ -1,7 +1,5 @@
-Excuse the mess.
+# New Mobility Dashboard Test
 
-<iframe width="1024" height="768" src="https://app.powerbigov.us/view?r=eyJrIjoiYTU0OTRjNjAtYjcyYS00MTcwLTk3ZDAtODYwYTEyODk1OWZlIiwidCI6ImVmNzM5MTQ4LWQ1YWEtNGVkYS1hNzk1LTQ4ZTY0NTgyM2Y2MyJ9" frameborder="0" allowFullScreen="true"></iframe>
+This is a page for researching a little bit about data science, business analytics, and basic web page building in order to create a pilot dashboard from zero.  It has been a fun and beneficial learning experience and I appreciate the opportunity.
 
-<iframe width="1024" height="768" src="https://app.powerbigov.us/view?r=eyJrIjoiNzhhYzNiNTgtNjAzMC00Y2NmLWI1ZTgtZWIxYjM3ZTkwYmM2IiwidCI6ImVmNzM5MTQ4LWQ1YWEtNGVkYS1hNzk1LTQ4ZTY0NTgyM2Y2MyJ9" frameborder="0" allowFullScreen="true"></iframe>
 
-<iframe src="https://membership.bluela.com/stations/partial/" width="1024px" height="750px"></iframe>

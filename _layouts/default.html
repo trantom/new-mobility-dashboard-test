@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/main.css">
+		</head>
+		<body>
+			<nav>
+	    		<ul>
+	        		<li><a href="{{ site.baseurl }}/">Home</a></li>
+		        	<li><a href="{{ site.baseurl }}/bikeshare">Bikeshare</a></li>
+	        		<li><a href="{{ site.baseurl }}/carshare">Carshare</a></li>
+					<li><a href="{{ site.baseurl }}/mobilityhubs">Mobility Hubs</a></li>
+					<li><a href="{{ site.baseurl }}/updates">Updates</a></li>
+	    		</ul>
+			</nav>
+			<div class="container">
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+	        		<!-- keep for reference; do not use <li><a href="mailto:person@email.com">email</a></li> -->
+	        		<li><a href="https://github.com/trantom">github.com/trantom</a></li>
+				</ul>
+			</footer>
+		</body>
+	</html>
